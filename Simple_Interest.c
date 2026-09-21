@@ -1,3 +1,5 @@
+// Write a programme for Simple Interest...
+
 #include <stdio.h>
 #include <conio.h> 
 
